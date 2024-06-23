@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/6qpKgbJh/daily-task.png" alt="Ecoleta" title="Ecoleta" style="vertical-align:top; margin:6px 4px;" width="50%">
+  <img src="https://i.postimg.cc/6qpKgbJh/daily-task.png" alt="Ecoleta" title="Ecoleta" style="vertical-align:top; margin:6px 4px;" width="10%">
 </p><br />
 
 # Todo List (Lista de Tarefas)
